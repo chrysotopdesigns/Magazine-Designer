@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Symbol Systems and Local Interpretation**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Symbol Systems and Local Interpretation within Cross-Cultural Design Bias practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Symbol Systems and Local Interpretation and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Symbol Systems and Local Interpretation**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Symbol Systems and Local Interpretation, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Symbol Systems and Local Interpretation environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Symbol Systems and Local Interpretation**
+
+**Summary:** Hands-on core techniques of Symbol Systems and Local Interpretation applied to small realistic Cross-Cultural Design Bias projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Symbol Systems and Local Interpretation techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Symbol Systems and Local Interpretation**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Symbol Systems and Local Interpretation work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Symbol Systems and Local Interpretation patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Symbol Systems and Local Interpretation**
+
+**Summary:** How to verify Symbol Systems and Local Interpretation work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Symbol Systems and Local Interpretation work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Symbol Systems and Local Interpretation**
+
+**Summary:** Using Symbol Systems and Local Interpretation inside larger Cross-Cultural Design Bias workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Symbol Systems and Local Interpretation outputs into a larger Cross-Cultural Design Bias workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Symbol Systems and Local Interpretation**
+
+**Summary:** Advanced methods in Symbol Systems and Local Interpretation for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Symbol Systems and Local Interpretation methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Symbol Systems and Local Interpretation**
+
+**Summary:** Making Symbol Systems and Local Interpretation work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Symbol Systems and Local Interpretation work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Symbol Systems and Local Interpretation**
+
+**Summary:** Protecting Symbol Systems and Local Interpretation work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Symbol Systems and Local Interpretation work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Symbol Systems and Local Interpretation**
+
+**Summary:** Making Symbol Systems and Local Interpretation work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Symbol Systems and Local Interpretation work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Symbol Systems and Local Interpretation**
+
+**Summary:** Realistic Cross-Cultural Design Bias case studies using Symbol Systems and Local Interpretation under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Symbol Systems and Local Interpretation results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Symbol Systems and Local Interpretation**
+
+**Summary:** Expert-level judgment in Symbol Systems and Local Interpretation, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Symbol Systems and Local Interpretation work with portfolio-ready proof.

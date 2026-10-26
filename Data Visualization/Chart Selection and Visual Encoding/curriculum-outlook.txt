@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Chart Selection and Visual Encoding**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Chart Selection and Visual Encoding within Data Visualization practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Chart Selection and Visual Encoding and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Chart Selection and Visual Encoding**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Chart Selection and Visual Encoding, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Chart Selection and Visual Encoding environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Chart Selection and Visual Encoding**
+
+**Summary:** Hands-on core techniques of Chart Selection and Visual Encoding applied to small realistic Data Visualization projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Chart Selection and Visual Encoding techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Chart Selection and Visual Encoding**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Chart Selection and Visual Encoding work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Chart Selection and Visual Encoding patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Chart Selection and Visual Encoding**
+
+**Summary:** How to verify Chart Selection and Visual Encoding work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Chart Selection and Visual Encoding work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Chart Selection and Visual Encoding**
+
+**Summary:** Using Chart Selection and Visual Encoding inside larger Data Visualization workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Chart Selection and Visual Encoding outputs into a larger Data Visualization workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Chart Selection and Visual Encoding**
+
+**Summary:** Advanced methods in Chart Selection and Visual Encoding for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Chart Selection and Visual Encoding methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Chart Selection and Visual Encoding**
+
+**Summary:** Making Chart Selection and Visual Encoding work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Chart Selection and Visual Encoding work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Chart Selection and Visual Encoding**
+
+**Summary:** Protecting Chart Selection and Visual Encoding work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Chart Selection and Visual Encoding work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Chart Selection and Visual Encoding**
+
+**Summary:** Making Chart Selection and Visual Encoding work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Chart Selection and Visual Encoding work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Chart Selection and Visual Encoding**
+
+**Summary:** Realistic Data Visualization case studies using Chart Selection and Visual Encoding under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Chart Selection and Visual Encoding results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Chart Selection and Visual Encoding**
+
+**Summary:** Expert-level judgment in Chart Selection and Visual Encoding, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Chart Selection and Visual Encoding work with portfolio-ready proof.

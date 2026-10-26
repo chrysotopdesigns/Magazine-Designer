@@ -1,0 +1,15 @@
+1. Cartographic Foundations and Map Purpose - Connects map design decisions to the question and intended audience.
+2. Projections, Scale, and Generalization - Explains how projection and scale affect geographic representation.
+3. GIS and Spatial Data Workflows - Builds practical fluency in geographic data and mapping tools.
+4. Thematic Maps and Choropleth Design - Creates maps that represent quantitative differences responsibly.
+5. Maps as Editorial Narratives - Uses maps to explain place-based stories with clear context.
+6. Color, Symbols, and Visual Hierarchy - Makes geographic features distinguishable and easy to interpret.
+7. Place Labels and Typography - Improves map readability through deliberate naming and label placement.
+8. Geospatial Data Cleaning and Validation - Reduces location errors through careful data preparation and checks.
+9. Borders, Territories, and Contested Places - Handles sensitive boundaries with clear sourcing and contextual notes.
+10. Print, Mobile, and Small-Multiple Maps - Adapts cartographic detail to format, scale, and available space.
+11. Interactive Maps and Reader Exploration - Enables useful exploration while keeping controls understandable.
+12. Accessibility, Uncertainty, and Map Limitations - Communicates uncertainty and makes maps more accessible.
+13. Geospatial Sources, Licenses, and Attribution - Uses geographic data with appropriate permissions and credit.
+14. Map Fact-Checking and Editorial Review - Verifies geographic claims, labels, boundaries, and data sources.
+15. Cartographic Case Studies and Portfolio - Demonstrates clear, accurate mapping across editorial use cases.

@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Density, White Space, and Scanning**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Density, White Space, and Scanning within Cognitive Load Theory practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Density, White Space, and Scanning and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Density, White Space, and Scanning**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Density, White Space, and Scanning, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Density, White Space, and Scanning environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Density, White Space, and Scanning**
+
+**Summary:** Hands-on core techniques of Density, White Space, and Scanning applied to small realistic Cognitive Load Theory projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Density, White Space, and Scanning techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Density, White Space, and Scanning**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Density, White Space, and Scanning work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Density, White Space, and Scanning patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Density, White Space, and Scanning**
+
+**Summary:** How to verify Density, White Space, and Scanning work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Density, White Space, and Scanning work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Density, White Space, and Scanning**
+
+**Summary:** Using Density, White Space, and Scanning inside larger Cognitive Load Theory workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Density, White Space, and Scanning outputs into a larger Cognitive Load Theory workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Density, White Space, and Scanning**
+
+**Summary:** Advanced methods in Density, White Space, and Scanning for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Density, White Space, and Scanning methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Density, White Space, and Scanning**
+
+**Summary:** Making Density, White Space, and Scanning work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Density, White Space, and Scanning work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Density, White Space, and Scanning**
+
+**Summary:** Protecting Density, White Space, and Scanning work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Density, White Space, and Scanning work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Density, White Space, and Scanning**
+
+**Summary:** Making Density, White Space, and Scanning work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Density, White Space, and Scanning work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Density, White Space, and Scanning**
+
+**Summary:** Realistic Cognitive Load Theory case studies using Density, White Space, and Scanning under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Density, White Space, and Scanning results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Density, White Space, and Scanning**
+
+**Summary:** Expert-level judgment in Density, White Space, and Scanning, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Density, White Space, and Scanning work with portfolio-ready proof.

@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Geospatial Sources, Licenses, and Attribution**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Geospatial Sources, Licenses, and Attribution within Cartography and Mapping practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Geospatial Sources, Licenses, and Attribution and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Geospatial Sources, Licenses, and Attribution**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Geospatial Sources, Licenses, and Attribution, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Geospatial Sources, Licenses, and Attribution environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Geospatial Sources, Licenses, and Attribution**
+
+**Summary:** Hands-on core techniques of Geospatial Sources, Licenses, and Attribution applied to small realistic Cartography and Mapping projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Geospatial Sources, Licenses, and Attribution techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Geospatial Sources, Licenses, and Attribution**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Geospatial Sources, Licenses, and Attribution work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Geospatial Sources, Licenses, and Attribution patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Geospatial Sources, Licenses, and Attribution**
+
+**Summary:** How to verify Geospatial Sources, Licenses, and Attribution work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Geospatial Sources, Licenses, and Attribution work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Geospatial Sources, Licenses, and Attribution**
+
+**Summary:** Using Geospatial Sources, Licenses, and Attribution inside larger Cartography and Mapping workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Geospatial Sources, Licenses, and Attribution outputs into a larger Cartography and Mapping workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Geospatial Sources, Licenses, and Attribution**
+
+**Summary:** Advanced methods in Geospatial Sources, Licenses, and Attribution for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Geospatial Sources, Licenses, and Attribution methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Geospatial Sources, Licenses, and Attribution**
+
+**Summary:** Making Geospatial Sources, Licenses, and Attribution work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Geospatial Sources, Licenses, and Attribution work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Geospatial Sources, Licenses, and Attribution**
+
+**Summary:** Protecting Geospatial Sources, Licenses, and Attribution work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Geospatial Sources, Licenses, and Attribution work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Geospatial Sources, Licenses, and Attribution**
+
+**Summary:** Making Geospatial Sources, Licenses, and Attribution work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Geospatial Sources, Licenses, and Attribution work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Geospatial Sources, Licenses, and Attribution**
+
+**Summary:** Realistic Cartography and Mapping case studies using Geospatial Sources, Licenses, and Attribution under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Geospatial Sources, Licenses, and Attribution results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Geospatial Sources, Licenses, and Attribution**
+
+**Summary:** Expert-level judgment in Geospatial Sources, Licenses, and Attribution, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Geospatial Sources, Licenses, and Attribution work with portfolio-ready proof.

@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Fashion, Style, and Subcultural Identity**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Fashion, Style, and Subcultural Identity within Subculture Movements practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Fashion, Style, and Subcultural Identity and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Fashion, Style, and Subcultural Identity**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Fashion, Style, and Subcultural Identity, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Fashion, Style, and Subcultural Identity environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Fashion, Style, and Subcultural Identity**
+
+**Summary:** Hands-on core techniques of Fashion, Style, and Subcultural Identity applied to small realistic Subculture Movements projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Fashion, Style, and Subcultural Identity techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Fashion, Style, and Subcultural Identity**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Fashion, Style, and Subcultural Identity work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Fashion, Style, and Subcultural Identity patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Fashion, Style, and Subcultural Identity**
+
+**Summary:** How to verify Fashion, Style, and Subcultural Identity work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Fashion, Style, and Subcultural Identity work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Fashion, Style, and Subcultural Identity**
+
+**Summary:** Using Fashion, Style, and Subcultural Identity inside larger Subculture Movements workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Fashion, Style, and Subcultural Identity outputs into a larger Subculture Movements workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Fashion, Style, and Subcultural Identity**
+
+**Summary:** Advanced methods in Fashion, Style, and Subcultural Identity for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Fashion, Style, and Subcultural Identity methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Fashion, Style, and Subcultural Identity**
+
+**Summary:** Making Fashion, Style, and Subcultural Identity work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Fashion, Style, and Subcultural Identity work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Fashion, Style, and Subcultural Identity**
+
+**Summary:** Protecting Fashion, Style, and Subcultural Identity work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Fashion, Style, and Subcultural Identity work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Fashion, Style, and Subcultural Identity**
+
+**Summary:** Making Fashion, Style, and Subcultural Identity work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Fashion, Style, and Subcultural Identity work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Fashion, Style, and Subcultural Identity**
+
+**Summary:** Realistic Subculture Movements case studies using Fashion, Style, and Subcultural Identity under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Fashion, Style, and Subcultural Identity results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Fashion, Style, and Subcultural Identity**
+
+**Summary:** Expert-level judgment in Fashion, Style, and Subcultural Identity, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Fashion, Style, and Subcultural Identity work with portfolio-ready proof.

@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Juxtaposition and Emergent Meaning**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Juxtaposition and Emergent Meaning within Image Sequencing practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Juxtaposition and Emergent Meaning and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Juxtaposition and Emergent Meaning**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Juxtaposition and Emergent Meaning, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Juxtaposition and Emergent Meaning environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Juxtaposition and Emergent Meaning**
+
+**Summary:** Hands-on core techniques of Juxtaposition and Emergent Meaning applied to small realistic Image Sequencing projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Juxtaposition and Emergent Meaning techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Juxtaposition and Emergent Meaning**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Juxtaposition and Emergent Meaning work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Juxtaposition and Emergent Meaning patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Juxtaposition and Emergent Meaning**
+
+**Summary:** How to verify Juxtaposition and Emergent Meaning work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Juxtaposition and Emergent Meaning work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Juxtaposition and Emergent Meaning**
+
+**Summary:** Using Juxtaposition and Emergent Meaning inside larger Image Sequencing workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Juxtaposition and Emergent Meaning outputs into a larger Image Sequencing workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Juxtaposition and Emergent Meaning**
+
+**Summary:** Advanced methods in Juxtaposition and Emergent Meaning for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Juxtaposition and Emergent Meaning methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Juxtaposition and Emergent Meaning**
+
+**Summary:** Making Juxtaposition and Emergent Meaning work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Juxtaposition and Emergent Meaning work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Juxtaposition and Emergent Meaning**
+
+**Summary:** Protecting Juxtaposition and Emergent Meaning work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Juxtaposition and Emergent Meaning work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Juxtaposition and Emergent Meaning**
+
+**Summary:** Making Juxtaposition and Emergent Meaning work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Juxtaposition and Emergent Meaning work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Juxtaposition and Emergent Meaning**
+
+**Summary:** Realistic Image Sequencing case studies using Juxtaposition and Emergent Meaning under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Juxtaposition and Emergent Meaning results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Juxtaposition and Emergent Meaning**
+
+**Summary:** Expert-level judgment in Juxtaposition and Emergent Meaning, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Juxtaposition and Emergent Meaning work with portfolio-ready proof.

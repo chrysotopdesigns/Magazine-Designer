@@ -1,0 +1,15 @@
+1. Perception and Visual Grouping - Explains how readers organize visual elements into meaningful patterns.
+2. Figure-Ground Relationships - Clarifies how foreground and background shape image interpretation.
+3. Proximity, Similarity, and Common Region - Uses grouping cues to organize complex page information.
+4. Continuity, Closure, and Completion - Guides attention through implied lines and unfinished forms.
+5. Negative Space and Emergent Forms - Uses space and relationships to reveal structure and meaning.
+6. Visual Hierarchy and Attention - Directs readers to the most important information first.
+7. Balance, Symmetry, and Tension - Creates stable or dynamic compositions through perceptual relationships.
+8. Pattern, Repetition, and Rhythm - Builds cohesion and movement across editorial layouts.
+9. Gestalt Principles in Magazine Layout - Applies perceptual grouping to pages, spreads, and sequences.
+10. Gestalt in Typography and Data Graphics - Improves grouping and interpretation of text and visual evidence.
+11. Perceptual Accessibility and Contrast - Makes visual relationships discernible for a wider range of readers.
+12. Reader Testing and Eye-Tracking Basics - Uses observation to evaluate attention and comprehension carefully.
+13. Ambiguity and Controlled Disruption - Uses perceptual tension intentionally without sacrificing essential clarity.
+14. Gestalt Analysis of Editorial Examples - Builds diagnostic skill through structured visual critique.
+15. Perception-Led Design Critique - Turns perception principles into practical, actionable feedback.

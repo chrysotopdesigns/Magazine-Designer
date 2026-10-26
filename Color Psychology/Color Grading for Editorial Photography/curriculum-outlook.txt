@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Color Grading for Editorial Photography**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Color Grading for Editorial Photography within Color Psychology practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Color Grading for Editorial Photography and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Color Grading for Editorial Photography**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Color Grading for Editorial Photography, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Color Grading for Editorial Photography environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Color Grading for Editorial Photography**
+
+**Summary:** Hands-on core techniques of Color Grading for Editorial Photography applied to small realistic Color Psychology projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Color Grading for Editorial Photography techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Color Grading for Editorial Photography**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Color Grading for Editorial Photography work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Color Grading for Editorial Photography patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Color Grading for Editorial Photography**
+
+**Summary:** How to verify Color Grading for Editorial Photography work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Color Grading for Editorial Photography work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Color Grading for Editorial Photography**
+
+**Summary:** Using Color Grading for Editorial Photography inside larger Color Psychology workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Color Grading for Editorial Photography outputs into a larger Color Psychology workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Color Grading for Editorial Photography**
+
+**Summary:** Advanced methods in Color Grading for Editorial Photography for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Color Grading for Editorial Photography methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Color Grading for Editorial Photography**
+
+**Summary:** Making Color Grading for Editorial Photography work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Color Grading for Editorial Photography work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Color Grading for Editorial Photography**
+
+**Summary:** Protecting Color Grading for Editorial Photography work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Color Grading for Editorial Photography work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Color Grading for Editorial Photography**
+
+**Summary:** Making Color Grading for Editorial Photography work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Color Grading for Editorial Photography work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Color Grading for Editorial Photography**
+
+**Summary:** Realistic Color Psychology case studies using Color Grading for Editorial Photography under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Color Grading for Editorial Photography results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Color Grading for Editorial Photography**
+
+**Summary:** Expert-level judgment in Color Grading for Editorial Photography, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Color Grading for Editorial Photography work with portfolio-ready proof.

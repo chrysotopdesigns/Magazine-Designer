@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Thematic Maps and Choropleth Design**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Thematic Maps and Choropleth Design within Cartography and Mapping practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Thematic Maps and Choropleth Design and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Thematic Maps and Choropleth Design**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Thematic Maps and Choropleth Design, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Thematic Maps and Choropleth Design environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Thematic Maps and Choropleth Design**
+
+**Summary:** Hands-on core techniques of Thematic Maps and Choropleth Design applied to small realistic Cartography and Mapping projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Thematic Maps and Choropleth Design techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Thematic Maps and Choropleth Design**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Thematic Maps and Choropleth Design work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Thematic Maps and Choropleth Design patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Thematic Maps and Choropleth Design**
+
+**Summary:** How to verify Thematic Maps and Choropleth Design work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Thematic Maps and Choropleth Design work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Thematic Maps and Choropleth Design**
+
+**Summary:** Using Thematic Maps and Choropleth Design inside larger Cartography and Mapping workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Thematic Maps and Choropleth Design outputs into a larger Cartography and Mapping workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Thematic Maps and Choropleth Design**
+
+**Summary:** Advanced methods in Thematic Maps and Choropleth Design for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Thematic Maps and Choropleth Design methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Thematic Maps and Choropleth Design**
+
+**Summary:** Making Thematic Maps and Choropleth Design work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Thematic Maps and Choropleth Design work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Thematic Maps and Choropleth Design**
+
+**Summary:** Protecting Thematic Maps and Choropleth Design work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Thematic Maps and Choropleth Design work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Thematic Maps and Choropleth Design**
+
+**Summary:** Making Thematic Maps and Choropleth Design work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Thematic Maps and Choropleth Design work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Thematic Maps and Choropleth Design**
+
+**Summary:** Realistic Cartography and Mapping case studies using Thematic Maps and Choropleth Design under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Thematic Maps and Choropleth Design results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Thematic Maps and Choropleth Design**
+
+**Summary:** Expert-level judgment in Thematic Maps and Choropleth Design, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Thematic Maps and Choropleth Design work with portfolio-ready proof.

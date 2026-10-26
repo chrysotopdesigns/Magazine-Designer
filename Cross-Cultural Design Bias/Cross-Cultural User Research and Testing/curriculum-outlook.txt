@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Cross-Cultural User Research and Testing**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Cross-Cultural User Research and Testing within Cross-Cultural Design Bias practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Cross-Cultural User Research and Testing and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Cross-Cultural User Research and Testing**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Cross-Cultural User Research and Testing, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Cross-Cultural User Research and Testing environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Cross-Cultural User Research and Testing**
+
+**Summary:** Hands-on core techniques of Cross-Cultural User Research and Testing applied to small realistic Cross-Cultural Design Bias projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Cross-Cultural User Research and Testing techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Cross-Cultural User Research and Testing**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Cross-Cultural User Research and Testing work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Cross-Cultural User Research and Testing patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Cross-Cultural User Research and Testing**
+
+**Summary:** How to verify Cross-Cultural User Research and Testing work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Cross-Cultural User Research and Testing work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Cross-Cultural User Research and Testing**
+
+**Summary:** Using Cross-Cultural User Research and Testing inside larger Cross-Cultural Design Bias workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Cross-Cultural User Research and Testing outputs into a larger Cross-Cultural Design Bias workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Cross-Cultural User Research and Testing**
+
+**Summary:** Advanced methods in Cross-Cultural User Research and Testing for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Cross-Cultural User Research and Testing methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Cross-Cultural User Research and Testing**
+
+**Summary:** Making Cross-Cultural User Research and Testing work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Cross-Cultural User Research and Testing work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Cross-Cultural User Research and Testing**
+
+**Summary:** Protecting Cross-Cultural User Research and Testing work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Cross-Cultural User Research and Testing work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Cross-Cultural User Research and Testing**
+
+**Summary:** Making Cross-Cultural User Research and Testing work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Cross-Cultural User Research and Testing work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Cross-Cultural User Research and Testing**
+
+**Summary:** Realistic Cross-Cultural Design Bias case studies using Cross-Cultural User Research and Testing under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Cross-Cultural User Research and Testing results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Cross-Cultural User Research and Testing**
+
+**Summary:** Expert-level judgment in Cross-Cultural User Research and Testing, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Cross-Cultural User Research and Testing work with portfolio-ready proof.

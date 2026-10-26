@@ -1,0 +1,15 @@
+1. Cross-Cultural Design Research Methods - Builds evidence-based understanding of audiences and design contexts.
+2. Reading Direction and Layout Conventions - Adapts visual order for readers with different reading systems.
+3. Color Meaning across Cultural Contexts - Tests color assumptions instead of treating them as universal.
+4. Historical Imagery and Cultural Memory - Accounts for how historical references shape present-day interpretation.
+5. Stereotypes, Representation, and Bias - Identifies harmful assumptions in visual representation and editorial framing.
+6. Symbol Systems and Local Interpretation - Checks how signs and icons are understood by local audiences.
+7. Localization and Internationalization Basics - Prepares designs to adapt across language and regional contexts.
+8. Multilingual Typography and Script Support - Supports legible type across scripts, languages, and character sets.
+9. Image Selection and Cultural Context - Chooses imagery with careful attention to identity and context.
+10. Inclusive Editorial Design Principles - Applies inclusive practices throughout the design process.
+11. Accessibility across Cultural Contexts - Considers accessibility needs alongside language and cultural differences.
+12. Cross-Cultural User Research and Testing - Uses diverse reader feedback to uncover design assumptions.
+13. Translation, Adaptation, and Editorial Handoff - Preserves intent through coordinated translation and design adaptation.
+14. Ethical Review and Bias Audits - Creates repeatable checks for representation and cultural harm.
+15. Cross-Cultural Design Case Studies - Applies lessons from international editorial design examples.

@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Historical Symbols and Visual Traditions**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Historical Symbols and Visual Traditions within Symbolism practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Historical Symbols and Visual Traditions and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Historical Symbols and Visual Traditions**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Historical Symbols and Visual Traditions, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Historical Symbols and Visual Traditions environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Historical Symbols and Visual Traditions**
+
+**Summary:** Hands-on core techniques of Historical Symbols and Visual Traditions applied to small realistic Symbolism projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Historical Symbols and Visual Traditions techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Historical Symbols and Visual Traditions**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Historical Symbols and Visual Traditions work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Historical Symbols and Visual Traditions patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Historical Symbols and Visual Traditions**
+
+**Summary:** How to verify Historical Symbols and Visual Traditions work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Historical Symbols and Visual Traditions work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Historical Symbols and Visual Traditions**
+
+**Summary:** Using Historical Symbols and Visual Traditions inside larger Symbolism workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Historical Symbols and Visual Traditions outputs into a larger Symbolism workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Historical Symbols and Visual Traditions**
+
+**Summary:** Advanced methods in Historical Symbols and Visual Traditions for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Historical Symbols and Visual Traditions methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Historical Symbols and Visual Traditions**
+
+**Summary:** Making Historical Symbols and Visual Traditions work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Historical Symbols and Visual Traditions work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Historical Symbols and Visual Traditions**
+
+**Summary:** Protecting Historical Symbols and Visual Traditions work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Historical Symbols and Visual Traditions work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Historical Symbols and Visual Traditions**
+
+**Summary:** Making Historical Symbols and Visual Traditions work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Historical Symbols and Visual Traditions work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Historical Symbols and Visual Traditions**
+
+**Summary:** Realistic Symbolism case studies using Historical Symbols and Visual Traditions under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Historical Symbols and Visual Traditions results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Historical Symbols and Visual Traditions**
+
+**Summary:** Expert-level judgment in Historical Symbols and Visual Traditions, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Historical Symbols and Visual Traditions work with portfolio-ready proof.

@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Perceptual Accessibility and Contrast**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Perceptual Accessibility and Contrast within Gestalt Principles practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Perceptual Accessibility and Contrast and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Perceptual Accessibility and Contrast**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Perceptual Accessibility and Contrast, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Perceptual Accessibility and Contrast environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Perceptual Accessibility and Contrast**
+
+**Summary:** Hands-on core techniques of Perceptual Accessibility and Contrast applied to small realistic Gestalt Principles projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Perceptual Accessibility and Contrast techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Perceptual Accessibility and Contrast**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Perceptual Accessibility and Contrast work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Perceptual Accessibility and Contrast patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Perceptual Accessibility and Contrast**
+
+**Summary:** How to verify Perceptual Accessibility and Contrast work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Perceptual Accessibility and Contrast work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Perceptual Accessibility and Contrast**
+
+**Summary:** Using Perceptual Accessibility and Contrast inside larger Gestalt Principles workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Perceptual Accessibility and Contrast outputs into a larger Gestalt Principles workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Perceptual Accessibility and Contrast**
+
+**Summary:** Advanced methods in Perceptual Accessibility and Contrast for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Perceptual Accessibility and Contrast methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Perceptual Accessibility and Contrast**
+
+**Summary:** Making Perceptual Accessibility and Contrast work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Perceptual Accessibility and Contrast work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Perceptual Accessibility and Contrast**
+
+**Summary:** Protecting Perceptual Accessibility and Contrast work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Perceptual Accessibility and Contrast work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Perceptual Accessibility and Contrast**
+
+**Summary:** Making Perceptual Accessibility and Contrast work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Perceptual Accessibility and Contrast work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Perceptual Accessibility and Contrast**
+
+**Summary:** Realistic Gestalt Principles case studies using Perceptual Accessibility and Contrast under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Perceptual Accessibility and Contrast results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Perceptual Accessibility and Contrast**
+
+**Summary:** Expert-level judgment in Perceptual Accessibility and Contrast, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Perceptual Accessibility and Contrast work with portfolio-ready proof.

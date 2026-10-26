@@ -1,0 +1,15 @@
+1. Color Theory and Perceptual Basics - Builds a reliable foundation for choosing and combining colors.
+2. Hue, Value, Saturation, and Contrast - Controls visual emphasis and legibility through color attributes.
+3. Palette Building and Emotional Tone - Creates palettes that support mood while serving editorial purpose.
+4. Cultural Context in Color Meaning - Recognizes that color associations vary across audiences and contexts.
+5. Color, Credibility, and Editorial Voice - Uses color consistently without implying unsupported meaning or authority.
+6. Accessibility, Contrast, and Color Vision - Improves visibility for readers with varied color perception.
+7. Print Color Systems and Proofing - Manages print color with realistic proofs and production checks.
+8. RGB, CMYK, and Spot-Color Workflows - Chooses appropriate color modes for screen and print outputs.
+9. Color Grading for Editorial Photography - Maintains coherent photographic color without distorting context.
+10. Brand Palettes and Visual Consistency - Builds repeatable color systems across editorial products.
+11. Color Encoding in Data Visualization - Uses color to represent data accurately and accessibly.
+12. Color Strategy for Covers and Features - Applies palette choices to strengthen prominent editorial packages.
+13. Digital Color and Dark Interfaces - Adapts color choices to screens, contrast, and interface settings.
+14. Ethics, Bias, and Color Associations - Examines assumptions that can bias visual interpretation.
+15. Color Critique and Portfolio Development - Demonstrates informed color choices through reviewed design work.

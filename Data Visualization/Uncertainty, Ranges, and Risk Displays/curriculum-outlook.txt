@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Uncertainty, Ranges, and Risk Displays**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Uncertainty, Ranges, and Risk Displays within Data Visualization practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Uncertainty, Ranges, and Risk Displays and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Uncertainty, Ranges, and Risk Displays**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Uncertainty, Ranges, and Risk Displays, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Uncertainty, Ranges, and Risk Displays environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Uncertainty, Ranges, and Risk Displays**
+
+**Summary:** Hands-on core techniques of Uncertainty, Ranges, and Risk Displays applied to small realistic Data Visualization projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Uncertainty, Ranges, and Risk Displays techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Uncertainty, Ranges, and Risk Displays**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Uncertainty, Ranges, and Risk Displays work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Uncertainty, Ranges, and Risk Displays patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Uncertainty, Ranges, and Risk Displays**
+
+**Summary:** How to verify Uncertainty, Ranges, and Risk Displays work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Uncertainty, Ranges, and Risk Displays work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Uncertainty, Ranges, and Risk Displays**
+
+**Summary:** Using Uncertainty, Ranges, and Risk Displays inside larger Data Visualization workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Uncertainty, Ranges, and Risk Displays outputs into a larger Data Visualization workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Uncertainty, Ranges, and Risk Displays**
+
+**Summary:** Advanced methods in Uncertainty, Ranges, and Risk Displays for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Uncertainty, Ranges, and Risk Displays methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Uncertainty, Ranges, and Risk Displays**
+
+**Summary:** Making Uncertainty, Ranges, and Risk Displays work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Uncertainty, Ranges, and Risk Displays work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Uncertainty, Ranges, and Risk Displays**
+
+**Summary:** Protecting Uncertainty, Ranges, and Risk Displays work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Uncertainty, Ranges, and Risk Displays work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Uncertainty, Ranges, and Risk Displays**
+
+**Summary:** Making Uncertainty, Ranges, and Risk Displays work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Uncertainty, Ranges, and Risk Displays work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Uncertainty, Ranges, and Risk Displays**
+
+**Summary:** Realistic Data Visualization case studies using Uncertainty, Ranges, and Risk Displays under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Uncertainty, Ranges, and Risk Displays results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Uncertainty, Ranges, and Risk Displays**
+
+**Summary:** Expert-level judgment in Uncertainty, Ranges, and Risk Displays, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Uncertainty, Ranges, and Risk Displays work with portfolio-ready proof.

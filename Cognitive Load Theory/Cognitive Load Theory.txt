@@ -1,0 +1,15 @@
+1. Working Memory and Cognitive Load - Explains how limited working memory affects reading and visual design.
+2. Intrinsic, Extraneous, and Germane Load - Distinguishes content complexity from avoidable presentation effort.
+3. Chunking and Information Grouping - Makes dense content easier to scan and understand.
+4. Editorial Information Architecture - Organizes stories so readers can build a coherent mental model.
+5. Complexity in Charts and Data Stories - Presents quantitative information without unnecessary cognitive burden.
+6. Typography, Readability, and Mental Effort - Reduces friction through clear type and consistent text structure.
+7. Visual Hierarchy and Cognitive Effort - Uses layout cues to help readers find and connect key ideas.
+8. Pacing, Friction, and Reader Attention - Balances smooth comprehension with intentional moments of emphasis.
+9. Reader Comprehension Testing - Checks whether readers understand the material as intended.
+10. Progressive Disclosure and Layered Detail - Reveals complexity in useful stages instead of all at once.
+11. Mobile Reading and Context Switching - Adapts information for short sessions and smaller screens.
+12. Density, White Space, and Scanning - Balances content density with space that supports orientation.
+13. Inclusive Design and Cognitive Diversity - Accounts for differing attention, memory, and processing needs.
+14. Ethical Persuasion and Visual Friction - Avoids using complexity or surprise to mislead readers.
+15. Cognitive Load Audits and Case Studies - Applies theory through evidence-based review of published layouts.

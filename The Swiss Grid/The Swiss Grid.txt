@@ -1,0 +1,15 @@
+1. Grid Thinking and Visual Structure - Builds a clear mental model for balanced, systematic editorial layouts.
+2. Columns, Margins, and Baselines - Creates dependable page structure and alignment across a publication.
+3. Modular Grid Construction - Enables flexible page systems for varied editorial content.
+4. Asymmetric Editorial Composition - Uses controlled imbalance to create movement without losing clarity.
+5. Swiss Style and International Typography - Applies core Swiss design principles with historical context.
+6. Type Placement within Grid Systems - Integrates text into a grid while preserving hierarchy and legibility.
+7. Image and Text Integration - Balances visual and verbal elements within a consistent page framework.
+8. Multi-Page Feature Architecture - Maintains visual continuity across long-form magazine stories.
+9. Cover and Opener Grid Design - Builds strong entry pages using deliberate grid decisions.
+10. Responsive Grids for Digital Editions - Adapts structural systems to changing screen sizes and reading contexts.
+11. Data Features and Information Grids - Organizes dense charts and labels into scannable editorial layouts.
+12. Grid Workflows in InDesign - Applies repeatable grid setup and production practices in page-layout software.
+13. Breaking the Grid with Intent - Uses selective disruption to emphasize meaning rather than create clutter.
+14. Print Production and Preflight - Prevents layout and output errors before pages reach the printer.
+15. Grid Case Studies and Portfolio - Demonstrates sound grid judgment through finished editorial examples.

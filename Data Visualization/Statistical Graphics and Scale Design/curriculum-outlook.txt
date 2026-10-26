@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Statistical Graphics and Scale Design**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Statistical Graphics and Scale Design within Data Visualization practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Statistical Graphics and Scale Design and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Statistical Graphics and Scale Design**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Statistical Graphics and Scale Design, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Statistical Graphics and Scale Design environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Statistical Graphics and Scale Design**
+
+**Summary:** Hands-on core techniques of Statistical Graphics and Scale Design applied to small realistic Data Visualization projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Statistical Graphics and Scale Design techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Statistical Graphics and Scale Design**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Statistical Graphics and Scale Design work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Statistical Graphics and Scale Design patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Statistical Graphics and Scale Design**
+
+**Summary:** How to verify Statistical Graphics and Scale Design work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Statistical Graphics and Scale Design work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Statistical Graphics and Scale Design**
+
+**Summary:** Using Statistical Graphics and Scale Design inside larger Data Visualization workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Statistical Graphics and Scale Design outputs into a larger Data Visualization workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Statistical Graphics and Scale Design**
+
+**Summary:** Advanced methods in Statistical Graphics and Scale Design for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Statistical Graphics and Scale Design methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Statistical Graphics and Scale Design**
+
+**Summary:** Making Statistical Graphics and Scale Design work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Statistical Graphics and Scale Design work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Statistical Graphics and Scale Design**
+
+**Summary:** Protecting Statistical Graphics and Scale Design work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Statistical Graphics and Scale Design work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Statistical Graphics and Scale Design**
+
+**Summary:** Making Statistical Graphics and Scale Design work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Statistical Graphics and Scale Design work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Statistical Graphics and Scale Design**
+
+**Summary:** Realistic Data Visualization case studies using Statistical Graphics and Scale Design under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Statistical Graphics and Scale Design results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Statistical Graphics and Scale Design**
+
+**Summary:** Expert-level judgment in Statistical Graphics and Scale Design, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Statistical Graphics and Scale Design work with portfolio-ready proof.

@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Gestalt in Typography and Data Graphics**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Gestalt in Typography and Data Graphics within Gestalt Principles practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Gestalt in Typography and Data Graphics and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Gestalt in Typography and Data Graphics**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Gestalt in Typography and Data Graphics, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Gestalt in Typography and Data Graphics environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Gestalt in Typography and Data Graphics**
+
+**Summary:** Hands-on core techniques of Gestalt in Typography and Data Graphics applied to small realistic Gestalt Principles projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Gestalt in Typography and Data Graphics techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Gestalt in Typography and Data Graphics**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Gestalt in Typography and Data Graphics work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Gestalt in Typography and Data Graphics patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Gestalt in Typography and Data Graphics**
+
+**Summary:** How to verify Gestalt in Typography and Data Graphics work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Gestalt in Typography and Data Graphics work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Gestalt in Typography and Data Graphics**
+
+**Summary:** Using Gestalt in Typography and Data Graphics inside larger Gestalt Principles workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Gestalt in Typography and Data Graphics outputs into a larger Gestalt Principles workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Gestalt in Typography and Data Graphics**
+
+**Summary:** Advanced methods in Gestalt in Typography and Data Graphics for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Gestalt in Typography and Data Graphics methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Gestalt in Typography and Data Graphics**
+
+**Summary:** Making Gestalt in Typography and Data Graphics work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Gestalt in Typography and Data Graphics work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Gestalt in Typography and Data Graphics**
+
+**Summary:** Protecting Gestalt in Typography and Data Graphics work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Gestalt in Typography and Data Graphics work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Gestalt in Typography and Data Graphics**
+
+**Summary:** Making Gestalt in Typography and Data Graphics work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Gestalt in Typography and Data Graphics work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Gestalt in Typography and Data Graphics**
+
+**Summary:** Realistic Gestalt Principles case studies using Gestalt in Typography and Data Graphics under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Gestalt in Typography and Data Graphics results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Gestalt in Typography and Data Graphics**
+
+**Summary:** Expert-level judgment in Gestalt in Typography and Data Graphics, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Gestalt in Typography and Data Graphics work with portfolio-ready proof.

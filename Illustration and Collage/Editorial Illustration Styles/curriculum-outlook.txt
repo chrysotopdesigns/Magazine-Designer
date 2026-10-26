@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Editorial Illustration Styles**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Editorial Illustration Styles within Illustration and Collage practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Editorial Illustration Styles and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Editorial Illustration Styles**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Editorial Illustration Styles, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Editorial Illustration Styles environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Editorial Illustration Styles**
+
+**Summary:** Hands-on core techniques of Editorial Illustration Styles applied to small realistic Illustration and Collage projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Editorial Illustration Styles techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Editorial Illustration Styles**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Editorial Illustration Styles work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Editorial Illustration Styles patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Editorial Illustration Styles**
+
+**Summary:** How to verify Editorial Illustration Styles work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Editorial Illustration Styles work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Editorial Illustration Styles**
+
+**Summary:** Using Editorial Illustration Styles inside larger Illustration and Collage workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Editorial Illustration Styles outputs into a larger Illustration and Collage workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Editorial Illustration Styles**
+
+**Summary:** Advanced methods in Editorial Illustration Styles for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Editorial Illustration Styles methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Editorial Illustration Styles**
+
+**Summary:** Making Editorial Illustration Styles work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Editorial Illustration Styles work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Editorial Illustration Styles**
+
+**Summary:** Protecting Editorial Illustration Styles work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Editorial Illustration Styles work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Editorial Illustration Styles**
+
+**Summary:** Making Editorial Illustration Styles work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Editorial Illustration Styles work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Editorial Illustration Styles**
+
+**Summary:** Realistic Illustration and Collage case studies using Editorial Illustration Styles under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Editorial Illustration Styles results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Editorial Illustration Styles**
+
+**Summary:** Expert-level judgment in Editorial Illustration Styles, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Editorial Illustration Styles work with portfolio-ready proof.

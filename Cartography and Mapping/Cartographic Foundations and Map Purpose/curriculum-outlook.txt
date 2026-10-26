@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Cartographic Foundations and Map Purpose**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Cartographic Foundations and Map Purpose within Cartography and Mapping practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Cartographic Foundations and Map Purpose and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Cartographic Foundations and Map Purpose**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Cartographic Foundations and Map Purpose, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Cartographic Foundations and Map Purpose environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Cartographic Foundations and Map Purpose**
+
+**Summary:** Hands-on core techniques of Cartographic Foundations and Map Purpose applied to small realistic Cartography and Mapping projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Cartographic Foundations and Map Purpose techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Cartographic Foundations and Map Purpose**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Cartographic Foundations and Map Purpose work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Cartographic Foundations and Map Purpose patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Cartographic Foundations and Map Purpose**
+
+**Summary:** How to verify Cartographic Foundations and Map Purpose work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Cartographic Foundations and Map Purpose work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Cartographic Foundations and Map Purpose**
+
+**Summary:** Using Cartographic Foundations and Map Purpose inside larger Cartography and Mapping workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Cartographic Foundations and Map Purpose outputs into a larger Cartography and Mapping workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Cartographic Foundations and Map Purpose**
+
+**Summary:** Advanced methods in Cartographic Foundations and Map Purpose for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Cartographic Foundations and Map Purpose methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Cartographic Foundations and Map Purpose**
+
+**Summary:** Making Cartographic Foundations and Map Purpose work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Cartographic Foundations and Map Purpose work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Cartographic Foundations and Map Purpose**
+
+**Summary:** Protecting Cartographic Foundations and Map Purpose work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Cartographic Foundations and Map Purpose work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Cartographic Foundations and Map Purpose**
+
+**Summary:** Making Cartographic Foundations and Map Purpose work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Cartographic Foundations and Map Purpose work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Cartographic Foundations and Map Purpose**
+
+**Summary:** Realistic Cartography and Mapping case studies using Cartographic Foundations and Map Purpose under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Cartographic Foundations and Map Purpose results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Cartographic Foundations and Map Purpose**
+
+**Summary:** Expert-level judgment in Cartographic Foundations and Map Purpose, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Cartographic Foundations and Map Purpose work with portfolio-ready proof.

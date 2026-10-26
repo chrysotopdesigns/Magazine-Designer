@@ -1,0 +1,15 @@
+1. Data Literacy and Source Evaluation - Assesses what data measures, where it came from, and what it omits.
+2. Chart Selection and Visual Encoding - Matches chart forms to data structure and reader questions.
+3. Statistical Graphics and Scale Design - Uses honest scales and encodings to represent evidence accurately.
+4. Complex Financial Data and Simplification - Makes dense datasets understandable without discarding important nuance.
+5. Narrative Infographics and Editorial Stories - Builds visual explanations with a clear and evidence-led narrative.
+6. Uncertainty, Ranges, and Risk Displays - Communicates uncertainty instead of implying false precision.
+7. Annotation, Labels, and Explanatory Context - Helps readers interpret patterns and caveats correctly.
+8. Data Cleaning and Transformation - Prepares consistent, documented data for accurate visualization.
+9. Maps, Networks, and Spatial Data - Visualizes geographic and relational evidence with suitable context.
+10. Interactive Graphics and Reader Controls - Designs useful interactions that clarify rather than obscure.
+11. Accessibility and Perceptual Design - Makes charts legible across devices and varied visual abilities.
+12. Visualization Tools and Production Workflows - Builds repeatable methods for creating and exporting graphics.
+13. Data Verification and Reproducibility - Makes calculations and visual outputs independently checkable.
+14. Ethics and Misleading Visualizations - Recognizes design choices that can distort data interpretation.
+15. Publication, Case Studies, and Portfolio - Prepares polished visual work with sources and methods documented.

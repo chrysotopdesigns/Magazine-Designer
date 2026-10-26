@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Responsive Grids for Digital Editions**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Responsive Grids for Digital Editions within The Swiss Grid practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Responsive Grids for Digital Editions and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Responsive Grids for Digital Editions**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Responsive Grids for Digital Editions, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Responsive Grids for Digital Editions environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Responsive Grids for Digital Editions**
+
+**Summary:** Hands-on core techniques of Responsive Grids for Digital Editions applied to small realistic The Swiss Grid projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Responsive Grids for Digital Editions techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Responsive Grids for Digital Editions**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Responsive Grids for Digital Editions work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Responsive Grids for Digital Editions patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Responsive Grids for Digital Editions**
+
+**Summary:** How to verify Responsive Grids for Digital Editions work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Responsive Grids for Digital Editions work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Responsive Grids for Digital Editions**
+
+**Summary:** Using Responsive Grids for Digital Editions inside larger The Swiss Grid workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Responsive Grids for Digital Editions outputs into a larger The Swiss Grid workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Responsive Grids for Digital Editions**
+
+**Summary:** Advanced methods in Responsive Grids for Digital Editions for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Responsive Grids for Digital Editions methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Responsive Grids for Digital Editions**
+
+**Summary:** Making Responsive Grids for Digital Editions work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Responsive Grids for Digital Editions work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Responsive Grids for Digital Editions**
+
+**Summary:** Protecting Responsive Grids for Digital Editions work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Responsive Grids for Digital Editions work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Responsive Grids for Digital Editions**
+
+**Summary:** Making Responsive Grids for Digital Editions work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Responsive Grids for Digital Editions work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Responsive Grids for Digital Editions**
+
+**Summary:** Realistic The Swiss Grid case studies using Responsive Grids for Digital Editions under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Responsive Grids for Digital Editions results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Responsive Grids for Digital Editions**
+
+**Summary:** Expert-level judgment in Responsive Grids for Digital Editions, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Responsive Grids for Digital Editions work with portfolio-ready proof.

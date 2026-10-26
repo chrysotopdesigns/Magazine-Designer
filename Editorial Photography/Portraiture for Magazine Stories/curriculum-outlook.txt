@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Portraiture for Magazine Stories**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Portraiture for Magazine Stories within Editorial Photography practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Portraiture for Magazine Stories and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Portraiture for Magazine Stories**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Portraiture for Magazine Stories, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Portraiture for Magazine Stories environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Portraiture for Magazine Stories**
+
+**Summary:** Hands-on core techniques of Portraiture for Magazine Stories applied to small realistic Editorial Photography projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Portraiture for Magazine Stories techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Portraiture for Magazine Stories**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Portraiture for Magazine Stories work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Portraiture for Magazine Stories patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Portraiture for Magazine Stories**
+
+**Summary:** How to verify Portraiture for Magazine Stories work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Portraiture for Magazine Stories work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Portraiture for Magazine Stories**
+
+**Summary:** Using Portraiture for Magazine Stories inside larger Editorial Photography workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Portraiture for Magazine Stories outputs into a larger Editorial Photography workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Portraiture for Magazine Stories**
+
+**Summary:** Advanced methods in Portraiture for Magazine Stories for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Portraiture for Magazine Stories methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Portraiture for Magazine Stories**
+
+**Summary:** Making Portraiture for Magazine Stories work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Portraiture for Magazine Stories work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Portraiture for Magazine Stories**
+
+**Summary:** Protecting Portraiture for Magazine Stories work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Portraiture for Magazine Stories work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Portraiture for Magazine Stories**
+
+**Summary:** Making Portraiture for Magazine Stories work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Portraiture for Magazine Stories work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Portraiture for Magazine Stories**
+
+**Summary:** Realistic Editorial Photography case studies using Portraiture for Magazine Stories under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Portraiture for Magazine Stories results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Portraiture for Magazine Stories**
+
+**Summary:** Expert-level judgment in Portraiture for Magazine Stories, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Portraiture for Magazine Stories work with portfolio-ready proof.

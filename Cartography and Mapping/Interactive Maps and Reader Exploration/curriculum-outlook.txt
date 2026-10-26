@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Interactive Maps and Reader Exploration**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Interactive Maps and Reader Exploration within Cartography and Mapping practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Interactive Maps and Reader Exploration and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Interactive Maps and Reader Exploration**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Interactive Maps and Reader Exploration, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Interactive Maps and Reader Exploration environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Interactive Maps and Reader Exploration**
+
+**Summary:** Hands-on core techniques of Interactive Maps and Reader Exploration applied to small realistic Cartography and Mapping projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Interactive Maps and Reader Exploration techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Interactive Maps and Reader Exploration**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Interactive Maps and Reader Exploration work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Interactive Maps and Reader Exploration patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Interactive Maps and Reader Exploration**
+
+**Summary:** How to verify Interactive Maps and Reader Exploration work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Interactive Maps and Reader Exploration work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Interactive Maps and Reader Exploration**
+
+**Summary:** Using Interactive Maps and Reader Exploration inside larger Cartography and Mapping workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Interactive Maps and Reader Exploration outputs into a larger Cartography and Mapping workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Interactive Maps and Reader Exploration**
+
+**Summary:** Advanced methods in Interactive Maps and Reader Exploration for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Interactive Maps and Reader Exploration methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Interactive Maps and Reader Exploration**
+
+**Summary:** Making Interactive Maps and Reader Exploration work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Interactive Maps and Reader Exploration work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Interactive Maps and Reader Exploration**
+
+**Summary:** Protecting Interactive Maps and Reader Exploration work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Interactive Maps and Reader Exploration work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Interactive Maps and Reader Exploration**
+
+**Summary:** Making Interactive Maps and Reader Exploration work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Interactive Maps and Reader Exploration work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Interactive Maps and Reader Exploration**
+
+**Summary:** Realistic Cartography and Mapping case studies using Interactive Maps and Reader Exploration under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Interactive Maps and Reader Exploration results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Interactive Maps and Reader Exploration**
+
+**Summary:** Expert-level judgment in Interactive Maps and Reader Exploration, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Interactive Maps and Reader Exploration work with portfolio-ready proof.

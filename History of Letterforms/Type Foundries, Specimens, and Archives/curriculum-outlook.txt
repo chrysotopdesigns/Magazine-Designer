@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Type Foundries, Specimens, and Archives**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Type Foundries, Specimens, and Archives within History of Letterforms practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Type Foundries, Specimens, and Archives and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Type Foundries, Specimens, and Archives**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Type Foundries, Specimens, and Archives, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Type Foundries, Specimens, and Archives environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Type Foundries, Specimens, and Archives**
+
+**Summary:** Hands-on core techniques of Type Foundries, Specimens, and Archives applied to small realistic History of Letterforms projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Type Foundries, Specimens, and Archives techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Type Foundries, Specimens, and Archives**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Type Foundries, Specimens, and Archives work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Type Foundries, Specimens, and Archives patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Type Foundries, Specimens, and Archives**
+
+**Summary:** How to verify Type Foundries, Specimens, and Archives work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Type Foundries, Specimens, and Archives work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Type Foundries, Specimens, and Archives**
+
+**Summary:** Using Type Foundries, Specimens, and Archives inside larger History of Letterforms workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Type Foundries, Specimens, and Archives outputs into a larger History of Letterforms workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Type Foundries, Specimens, and Archives**
+
+**Summary:** Advanced methods in Type Foundries, Specimens, and Archives for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Type Foundries, Specimens, and Archives methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Type Foundries, Specimens, and Archives**
+
+**Summary:** Making Type Foundries, Specimens, and Archives work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Type Foundries, Specimens, and Archives work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Type Foundries, Specimens, and Archives**
+
+**Summary:** Protecting Type Foundries, Specimens, and Archives work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Type Foundries, Specimens, and Archives work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Type Foundries, Specimens, and Archives**
+
+**Summary:** Making Type Foundries, Specimens, and Archives work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Type Foundries, Specimens, and Archives work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Type Foundries, Specimens, and Archives**
+
+**Summary:** Realistic History of Letterforms case studies using Type Foundries, Specimens, and Archives under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Type Foundries, Specimens, and Archives results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Type Foundries, Specimens, and Archives**
+
+**Summary:** Expert-level judgment in Type Foundries, Specimens, and Archives, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Type Foundries, Specimens, and Archives work with portfolio-ready proof.

@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Subculture Features and Visual Essays**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Subculture Features and Visual Essays within Subculture Movements practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Subculture Features and Visual Essays and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Subculture Features and Visual Essays**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Subculture Features and Visual Essays, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Subculture Features and Visual Essays environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Subculture Features and Visual Essays**
+
+**Summary:** Hands-on core techniques of Subculture Features and Visual Essays applied to small realistic Subculture Movements projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Subculture Features and Visual Essays techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Subculture Features and Visual Essays**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Subculture Features and Visual Essays work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Subculture Features and Visual Essays patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Subculture Features and Visual Essays**
+
+**Summary:** How to verify Subculture Features and Visual Essays work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Subculture Features and Visual Essays work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Subculture Features and Visual Essays**
+
+**Summary:** Using Subculture Features and Visual Essays inside larger Subculture Movements workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Subculture Features and Visual Essays outputs into a larger Subculture Movements workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Subculture Features and Visual Essays**
+
+**Summary:** Advanced methods in Subculture Features and Visual Essays for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Subculture Features and Visual Essays methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Subculture Features and Visual Essays**
+
+**Summary:** Making Subculture Features and Visual Essays work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Subculture Features and Visual Essays work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Subculture Features and Visual Essays**
+
+**Summary:** Protecting Subculture Features and Visual Essays work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Subculture Features and Visual Essays work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Subculture Features and Visual Essays**
+
+**Summary:** Making Subculture Features and Visual Essays work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Subculture Features and Visual Essays work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Subculture Features and Visual Essays**
+
+**Summary:** Realistic Subculture Movements case studies using Subculture Features and Visual Essays under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Subculture Features and Visual Essays results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Subculture Features and Visual Essays**
+
+**Summary:** Expert-level judgment in Subculture Features and Visual Essays, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Subculture Features and Visual Essays work with portfolio-ready proof.

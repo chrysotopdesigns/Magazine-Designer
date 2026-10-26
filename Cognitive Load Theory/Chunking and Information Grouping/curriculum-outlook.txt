@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Chunking and Information Grouping**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Chunking and Information Grouping within Cognitive Load Theory practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Chunking and Information Grouping and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Chunking and Information Grouping**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Chunking and Information Grouping, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Chunking and Information Grouping environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Chunking and Information Grouping**
+
+**Summary:** Hands-on core techniques of Chunking and Information Grouping applied to small realistic Cognitive Load Theory projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Chunking and Information Grouping techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Chunking and Information Grouping**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Chunking and Information Grouping work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Chunking and Information Grouping patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Chunking and Information Grouping**
+
+**Summary:** How to verify Chunking and Information Grouping work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Chunking and Information Grouping work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Chunking and Information Grouping**
+
+**Summary:** Using Chunking and Information Grouping inside larger Cognitive Load Theory workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Chunking and Information Grouping outputs into a larger Cognitive Load Theory workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Chunking and Information Grouping**
+
+**Summary:** Advanced methods in Chunking and Information Grouping for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Chunking and Information Grouping methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Chunking and Information Grouping**
+
+**Summary:** Making Chunking and Information Grouping work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Chunking and Information Grouping work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Chunking and Information Grouping**
+
+**Summary:** Protecting Chunking and Information Grouping work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Chunking and Information Grouping work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Chunking and Information Grouping**
+
+**Summary:** Making Chunking and Information Grouping work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Chunking and Information Grouping work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Chunking and Information Grouping**
+
+**Summary:** Realistic Cognitive Load Theory case studies using Chunking and Information Grouping under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Chunking and Information Grouping results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Chunking and Information Grouping**
+
+**Summary:** Expert-level judgment in Chunking and Information Grouping, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Chunking and Information Grouping work with portfolio-ready proof.
